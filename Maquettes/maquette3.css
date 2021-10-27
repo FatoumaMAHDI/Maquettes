@@ -1,0 +1,20 @@
+table,td{
+    border: 1px solid #CCC;
+    border-collapse: collapse;
+    font-family: system-ui, system-ui, sans-serif;
+    width: 30em;
+    height: 2.5em;
+}
+td{
+    border: 1px solid #CCC;
+    border-collapse: collapse;
+}
+.l1{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+.l2{
+    background-color: rgb(211, 211, 211);
+
+}
